@@ -1,0 +1,22 @@
+.image-slider img{
+    height: 100vh;
+    
+
+    
+}
+.link {
+    color: #FF7900;
+    text-decoration: underline;
+}
+#Error {
+    color: red;
+}
+#mobileError {
+    color: red;
+}
+#passwordError {
+color: red;
+}
+.checkBoxError {
+    color: red;
+}
